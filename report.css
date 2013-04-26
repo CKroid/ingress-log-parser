@@ -1,0 +1,51 @@
+h1
+{
+	margin-bottom:0;
+	text-align:center;
+}
+
+.container
+{
+	width:300px;
+	float:left;
+	margin:20px;
+}    
+
+.agents
+{
+	background-color:#EEEEEE;
+	height:200px;
+	width:200px;
+	float:left;
+	text-align:center;
+}
+
+.header
+{
+	background-color:#FFA500;
+}
+
+.result
+{
+	 background-color:#250000;
+	 height:200px;
+	 width:100px;
+	 float:left;
+	 text-align:center;
+	 color:#FF0000;
+}
+
+.resistance
+{
+	color:#0033FF;
+}
+
+.enlightened
+{
+	color:#15FF00;
+}
+
+.resonator
+{
+	color:#000000;
+}
